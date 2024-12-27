@@ -1,0 +1,68 @@
+body{
+    margin: 0%;
+}
+.head{
+    display: flex;
+    background-color:#333;
+    justify-content: space-evenly;
+    flex: 0;
+    align-items: center;
+
+
+}
+.head h1{
+    color: white;
+    margin-left: 10px;
+}
+.headnav{
+    display: flex;
+    justify-content: center;
+    flex: 2;
+
+    
+}
+
+.headnav a{
+    text-decoration: none;
+    color: white;
+    padding: 0px 10px;
+}
+#bookmark{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+.product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+   
+}
+.product1{
+    border: 2px outset white;
+    
+    margin: 10px 30px;
+    padding: 20px 30px;
+    
+
+}
+footer{
+    display: flex;
+    flex: ;
+    justify-content: space-evenly;
+    background-color: blueviolet;
+
+}
+.ft1 span{
+    padding: 10px 10px;
+    color: white;
+    margin: 10px 0px;
+}
+.foot{
+    text-align: center;
+    margin: 50px;
+}
